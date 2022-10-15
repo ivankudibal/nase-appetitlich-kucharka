@@ -1,0 +1,23 @@
+{
+  "unversionedId": "recepty/appetit/jemne-kruti-kari",
+  "id": "recepty/appetit/jemne-kruti-kari",
+  "title": "Jemné krůtí kari",
+  "description": "Zdroj: Apetit, září 2020, strana 22.",
+  "source": "@site/docs/recepty/appetit/jemne-kruti-kari.md",
+  "sourceDirName": "recepty/appetit",
+  "slug": "/recepty/appetit/jemne-kruti-kari",
+  "permalink": "/docs/recepty/appetit/jemne-kruti-kari",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/recepty/appetit/jemne-kruti-kari.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hlavní jídla",
+    "permalink": "/docs/recepty/"
+  }
+}

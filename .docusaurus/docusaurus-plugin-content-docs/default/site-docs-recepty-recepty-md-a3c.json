@@ -1,0 +1,24 @@
+{
+  "unversionedId": "recepty/recepty",
+  "id": "recepty/recepty",
+  "title": "Hlavní jídla",
+  "description": "Obědy, večeře.",
+  "source": "@site/docs/recepty/recepty.md",
+  "sourceDirName": "recepty",
+  "slug": "/recepty/",
+  "permalink": "/docs/recepty/",
+  "draft": false,
+  "editUrl": "https://github.com/ivankudibal/nase-appetitilich-kucharka/tree/main/packages/docs/recepty/recepty.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Recepty",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Jemné krůtí kari",
+    "permalink": "/docs/recepty/jemne-kruti-kari"
+  }
+}
