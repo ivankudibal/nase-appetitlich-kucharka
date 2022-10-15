@@ -8,11 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Naše appetitlich kuchařka',
   tagline: 'Vaříme si, co nám chutná',
-  url: 'https://nase-appetitlich-kucharka.github.io',
-  baseUrl: '/',
+  url: 'https://ivankudibal.github.io',
+  baseUrl: '/nase-appetitlich-kucharka/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
+  trailingSlash: true,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -120,7 +121,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} ivankuidbal, Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} ivankudibal, Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

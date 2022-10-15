@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Skříňka s časopisy je plná',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Recepty, které máme v časopisech, nelze rychle najít. Skříňka s časopisy, Penny, Appetit, Vaříme apod. je již plná. Staré nevyhodíme a stránky trhat nebudeme. 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Jen to, co nám chutná',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Co nám chutná, si zapíšeme do svého, a to je zde. Co když apetitonline přestane fungovat, a co ostatní časopisy, které služby nemají.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Hodnocení, plánování nákupu, kalorie',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Lajky, body, srdíčka. Co si chceme uvařit, chceme vidět v kalorických hodnotách. Spočítáme si nákup a přepočítáme recept pro počet osob. To ale v této verzi ještě není. Zde zatím soustředíme obsah.
       </>
     ),
   },
