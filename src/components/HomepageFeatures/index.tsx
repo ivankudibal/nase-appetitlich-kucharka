@@ -19,11 +19,11 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Jen to, co nám chutná',
+    title: 'Jen to, co a jak nám chutná',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Co nám chutná, si zapíšeme do svého, a to je zde. Co když apetitonline přestane fungovat, a co ostatní časopisy, které služby nemají.
+        Co a jak nám chutná, si zapíšeme do svého, a to je zde. Co když apetitonline přestane fungovat, a co ostatní časopisy, které služby nemají.
       </>
     ),
   },
