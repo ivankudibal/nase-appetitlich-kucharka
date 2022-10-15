@@ -1,1 +1,0 @@
-(self.webpackChunknase_appetitlich_kucharka=self.webpackChunknase_appetitlich_kucharka||[]).push([[525],{5525:()=>{}}]);
