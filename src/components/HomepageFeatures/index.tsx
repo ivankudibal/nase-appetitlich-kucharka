@@ -32,7 +32,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Lajky, body, srdíčka. Co si chceme uvařit, chceme vidět v kalorických hodnotách. Spočítáme si nákup a přepočítáme recept pro počet osob. To ale v této verzi ještě není. Zde zatím soustředíme obsah.
+        Lajky, body, srdíčka. Co si chceme uvařit, chceme vidět v kalorických hodnotách. Spočítáme si nákup a přepočítáme recept pro počet osob. To ale v této verzi ještě není. Zatím se soustředíme na základní obsah.
       </>
     ),
   },
