@@ -39,14 +39,14 @@ const config = {
           // Remove this to remove the "edit this page" links.
           // https://github.com/ivankudibal/nase-appetitlich-kucharka/edit/main/docs/recepty/jemne-kruti-kari.md
           editUrl:
-            'https://github.com/ivankudibal/nase-appetitilich-kucharka/edit/main/',
+            'https://github.com/ivankudibal/nase-appetitlich-kucharka/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ivankudibal/docusaurus/tree/main/packages/',
+            'https://github.com/ivankudibal/nase-appetitlich-kucharka/tree/main/packages/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
