@@ -59,7 +59,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Naše apetitlich kuchařka',
+        title: 'Naše appetitlich kuchařka',
         logo: {
           alt: 'Logo',
           src: 'img/logo.svg',
@@ -73,7 +73,7 @@ const config = {
           },
           
           {
-            href: 'https://github.com/ivankudibal/nase-apetitlich-kucharka',
+            href: 'https://github.com/ivankudibal/nase-appetitlich-kucharka',
             label: 'GitHub',
             position: 'right',
           },
@@ -96,15 +96,15 @@ const config = {
             items: [
               {
                 label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/nase-apetitlich-kucharka',
+                href: 'https://stackoverflow.com/questions/tagged/nase-appetitlich-kucharka',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/nase-apetitlich-kucharka',
+                href: 'https://discordapp.com/invite/nase-appetitlich-kucharka',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/nase-apetitlich-kucharka',
+                href: 'https://twitter.com/nase-appetitlich-kucharka',
               },
             ],
           },
@@ -117,7 +117,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/ivankudibal/nase-apetitlich-kucharka',
+                href: 'https://github.com/ivankudibal/nase-appetitlich-kucharka',
               },
             ],
           },
