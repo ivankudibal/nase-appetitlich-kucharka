@@ -37,8 +37,9 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
+          // https://github.com/ivankudibal/nase-appetitlich-kucharka/edit/main/docs/recepty/jemne-kruti-kari.md
           editUrl:
-            'https://github.com/ivankudibal/nase-appetitilich-kucharka/tree/main/packages/',
+            'https://github.com/ivankudibal/nase-appetitilich-kucharka/edit/main/',
         },
         blog: {
           showReadingTime: true,
