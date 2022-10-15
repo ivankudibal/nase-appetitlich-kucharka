@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknase_appetitlich_kucharka=self.webpackChunknase_appetitlich_kucharka||[]).push([[346],{3381:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/nase-appetitlich-kucharka/blog/tags/hello","allTagsPath":"/nase-appetitlich-kucharka/blog/tags","count":2}')}}]);
