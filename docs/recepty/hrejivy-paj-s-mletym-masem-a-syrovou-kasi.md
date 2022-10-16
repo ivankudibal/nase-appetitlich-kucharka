@@ -6,7 +6,7 @@ tags: [listopad, apetitonline, maso, hovězí, sýr]
 
 # Hřejivý páj s mletým masem a sýrovou kaší
 
-_Zdroj: Apetit, listopad 2021, strana 75
+_Zdroj: Apetit, listopad 2021, strana 75_
 
 TODO foto
 
@@ -23,7 +23,7 @@ TODO foto
 * 3 lžíce worcesterské omáčky
 * 750ml hovězího vývaru
 * 3 lžíce rajského protlaku
-* 1 a 3/4kb brambor, varný typ C, oloupané a nakrájené
+* 1 a 3/4kg brambor, varný typ C, oloupané a nakrájené
 * 50g másla
 * 100ml smetany ke šlehání
 * 150g vyzrálého čedaru, nastrouhaného
