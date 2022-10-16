@@ -10,6 +10,8 @@ tags: [kari, září, apetitonline, maso, krůta]
 
 _Zdroj: Apetit, září 2020, strana 22, dle [apetitonline.cz](https://www.apetitonline.cz/sites/default/files/styles/middle_cropped/public/recepty/Jemne_kruti_kari.jpg?h=43fe8092)_
 
+Pro 4 osoby
+
 ![TODO foto nahradit naší úpravou](https://www.apetitonline.cz/sites/default/files/styles/middle_cropped/public/recepty/Jemne_kruti_kari.jpg?h=43fe8092)
 
 ## Ingredience
