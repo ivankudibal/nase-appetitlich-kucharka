@@ -1,6 +1,6 @@
 ---
 #sidebar_position: 
-tags: [listopad, apetitonline, maso, hovězí, sýr]
+tags: [listopad, apetit, maso, hovězí, sýr]
 #description:
 ---
 
