@@ -8,7 +8,7 @@ tags: [listopad, apetit, maso, hovězí, sýr]
 
 _Zdroj: Apetit, listopad 2021, strana 75_
 
-TODO foto
+![Hrejivy paj](/img/hrejivy-paj.jpeg)
 
 ## Ingredience
 
