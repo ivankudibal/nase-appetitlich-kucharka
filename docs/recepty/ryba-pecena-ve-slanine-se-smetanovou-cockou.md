@@ -11,6 +11,8 @@ _Zdroj: Apetit, leden 2022, strana 24._
 
 Pro 4 osoby.
 
+![Ryba pečená ve slanině se smetanovou čočkou](./assets/ryba-ve-slanine-se-smetanovou-cockou.jpeg)
+
 ## Ingredience
 
 - 1 lžíce panenského olivového oleje + na pokapání salátu
