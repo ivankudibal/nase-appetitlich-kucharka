@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
+#sidebar_position: 1
 tags: [kari, září, apetitonline, maso, krůta]
-#description: aaaaaaaaaaa
+#description:
 ---
 
 # Jemné krůtí kari

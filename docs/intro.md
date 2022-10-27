@@ -2,6 +2,7 @@
 sidebar_position: 1
 ---
 
-# Recepty
+# Úvod
 
-Hlavní jídla, polévky, dezerty.
+* [Recepty](/docs/recepty)
+* [Jmenný rejstřík](/docs/tags/)

@@ -10,7 +10,7 @@ const config = {
   tagline: 'Vaříme si, co nám chutná',
   url: 'https://ivankudibal.github.io',
   baseUrl: '/nase-appetitlich-kucharka/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   trailingSlash: true,
@@ -59,18 +59,19 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Naše appetitlich kuchařka',
+        title: 'N. A. K.',
         logo: {
           alt: 'Logo',
           src: 'img/logo.svg',
         },
         items: [
+          /*
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
             label: 'Kuchařka',
-          },
+          },*/
       /*    
           {
             href: 'https://github.com/ivankudibal/nase-appetitlich-kucharka',
@@ -95,7 +96,7 @@ const config = {
           {
             title: 'Community',
             items: [
-              {
+              /*{
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/questions/tagged/nase-appetitlich-kucharka',
               },
@@ -106,16 +107,16 @@ const config = {
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/nase-appetitlich-kucharka',
-              },
+              },*/
             ],
           },
           {
             title: 'Více',
             items: [
-              {
+              /*{
                 label: 'Blog',
                 to: '/blog',
-              },
+              },*/
               {
                 label: 'GitHub',
                 href: 'https://github.com/ivankudibal/nase-appetitlich-kucharka',
@@ -123,7 +124,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} ivankudibal, Built with Docusaurus.`,
+        copyright: `Made by ivankudibal, 2022 - ${new Date().getFullYear()}  Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
