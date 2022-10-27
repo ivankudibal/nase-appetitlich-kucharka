@@ -1,3 +1,3 @@
-# Hlavní jídla
+# Recepty
 
 Obědy, večeře.
