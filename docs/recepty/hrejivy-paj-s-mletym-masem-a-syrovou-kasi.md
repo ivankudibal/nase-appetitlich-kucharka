@@ -45,3 +45,7 @@ Troubu předehřejte na 190 st. C.
 Masovou směs rozdělte a do jednoho velkého pekáče nebo šesti malých.
 Bramborobou kaši dejte do cukrářského sáčku s řezanou špičkou a ozdobně nanesete na masovou směs (můžete ji ale nanést i lžící a jen dodělat vlny).
 Pekáč dejte do trouby a pečte 30-35 minut, aby kaše byla dozlatova a masová směs pod ní krásně bublala.
+
+![Hrejivy paj](./assets/hrejivy-paj-2.jpeg)
+![Hrejivy paj](./assets/hrejivy-paj-3.jpeg)
+![Hrejivy paj](./assets/hrejivy-paj-4.jpeg)
