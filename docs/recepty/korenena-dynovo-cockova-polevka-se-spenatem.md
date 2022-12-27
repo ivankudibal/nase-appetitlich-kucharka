@@ -1,6 +1,6 @@
 ---
 #sidebar_position: 
-tags: [únor, apetit, čočka, polévka]
+tags: [únor, apetit, dýně, čočka, polévka, špenát]
 #description:
 ---
 
@@ -10,18 +10,24 @@ _Zdroj: Apetit, únor 2022, strana 65_
 
 Pro 6 osob.
 
+![Kořeněná dýňovo-čočková polévka se špenátem](./assets/dynovo-cockova-polevka.jpeg)
+![Kořeněná dýňovo-čočková polévka se špenátem](./assets/dynovo-cockova-polevka-3.jpeg)
+![Kořeněná dýňovo-čočková polévka se špenátem](./assets/dynovo-cockova-polevka-4.jpeg)
+![Upečená dýně](./assets/dynovo-cockova-polevka-2.jpeg)
+
+
 ## Ingredience
 
-* 400g máslové dýně, oloupané a nakrájené na kostky
-* 2 lžíce olivového oleje
-* sůl a čerstvě mletý pepř
-* 2 lžičky + pár špetek římského kmínu, opražených
-* 300g drobné zelené čočky (například puy), propláchnuté
-* cca 2 litry horkého zeleninového vývaru
-* 80g bulguru
-* 200g baby špenátu
-* 1/2 citronu, kůra nastrouhaná najemno a vymačkaná šťáva
-* 6 lžic bílého jogurtu
+- 400g máslové dýně, oloupané a nakrájené na kostky
+- 2 lžíce olivového oleje
+- sůl a čerstvě mletý pepř
+- 2 lžičky + pár špetek římského kmínu, opražených
+- 300g drobné zelené čočky (například puy), propláchnuté
+- cca 2 litry horkého zeleninového vývaru
+- 80g bulguru
+- 200g baby špenátu
+- 1/2 citronu, kůra nastrouhaná najemno a vymačkaná šťáva
+- 6 lžic bílého jogurtu
 
 ## Postup
 

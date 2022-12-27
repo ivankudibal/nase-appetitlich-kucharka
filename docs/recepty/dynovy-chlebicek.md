@@ -8,18 +8,22 @@ tags: [září, říjen, jóga-dnes, dezert, dýně]
 
 _Recept je upravený podle mnoha jiných. Výchozí je v Joga dnes, září-říjen 2022._
 
+![Dýňový chlebíček](./assets/dynovy-chlebicek.jpeg)
+![Dýňový chlebíček](./assets/dynovy-chlebicek-2.jpeg)
+![Dýňový chlebíček](./assets/dynovy-chlebicek-3.jpeg)
+
 ## Ingredience
 
-* 200g hladké mouky
-* 200g dýňového pyré
-* 130g změklého másla
-* 130g třtinového cukru
-* 100g nasekaných ořechů
-* 3 vejce
-* 1 vrchovatá čajová lžička jedlé sody
-* špetka vanilky
-* citronová kůra z bio citronu
-* (1 lžíce perníkového koření)
+- 200g hladké mouky
+- 200g dýňového pyré
+- 130g změklého másla
+- 130g třtinového cukru
+- 100g nasekaných ořechů
+- 3 vejce
+- 1 vrchovatá čajová lžička jedlé sody
+- špetka vanilky
+- citronová kůra z bio citronu
+- (1 lžíce perníkového koření)
 
 ## Postup
 

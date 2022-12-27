@@ -1,6 +1,6 @@
 ---
 #sidebar_position: 1
-tags: [leden, apetit, maso, klobása, těstoviny]
+tags: [leden, apetit, maso, klobása, těstoviny, fazole]
 persons: 4
 #description:
 ---
@@ -10,6 +10,9 @@ persons: 4
 _Zdroj: Apetit, leden 2022, strana 23._
 
 Pro 4-6 osob.
+
+![Vinná klobása v rajčatové omáčce s těstovinami](./assets/vinna-klobasa-v-rajcatove-omacce-s-testovinami.jpeg)
+![Vinná klobása v rajčatové omáčce s těstovinami](./assets/vinna-klobasa-v-rajcatove-omacce-s-testovinami-2.jpeg)
 
 ## Ingredience
 

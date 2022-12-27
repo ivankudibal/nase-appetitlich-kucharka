@@ -1,12 +1,16 @@
 ---
 #sidebar_position: 
-tags: [srpen, apetit, květák]
+tags: [srpen, apetit, květák, tacos]
 #description:
 ---
 
 # Květákové buffalo tacos
 
 _Zdroj: Apetit, srpen 2021, strana 21_
+
+![Květákové buffalo tacos](./assets/kvetakove-buffalo-tacos.jpeg)
+![Květákové buffalo tacos](./assets/kvetakove-buffalo-tacos-2.jpeg)
+![Květákové buffalo tacos](./assets/kvetakove-buffalo-tacos-3.jpeg)
 
 ## Ingredience
 
