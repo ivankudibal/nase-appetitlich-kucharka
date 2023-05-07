@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-tags: [kuře, říjen, apetit, maso]
+tags: [kuře, říjen, 2022, 10/2022, apetit, maso]
 persons: 4
 #description: aaaaaaaaaaa
 ---

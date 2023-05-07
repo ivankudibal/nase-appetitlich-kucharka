@@ -1,6 +1,6 @@
 ---
 #sidebar_position: 
-tags: [září, říjen, jóga-dnes, dezert, dýně]
+tags: [září, říjen, 2022, 10/2022, jóga-dnes, dezert, dýně]
 #description:
 ---
 

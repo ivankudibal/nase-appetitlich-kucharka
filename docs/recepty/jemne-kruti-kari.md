@@ -1,6 +1,6 @@
 ---
 #sidebar_position: 1
-tags: [kari, září, apetitonline, maso, krůta]
+tags: [kari, září, 2020, 09/2020, apetitonline, maso, krůta]
 #description:
 ---
 

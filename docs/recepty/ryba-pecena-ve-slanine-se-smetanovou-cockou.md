@@ -1,6 +1,6 @@
 ---
 #sidebar_position: 1
-tags: [leden, apetit, ryba, čočka]
+tags: [leden, apetit, ryba, čočka, 01/2022, 2022]
 persons: 4
 #description:
 ---

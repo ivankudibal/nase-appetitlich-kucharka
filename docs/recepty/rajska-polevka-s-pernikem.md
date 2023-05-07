@@ -1,6 +1,6 @@
 ---
 #sidebar_position: 
-tags: [prosinec, apetit, rajčata, polévka, perník]
+tags: [prosinec, apetit, rajčata, polévka, perník, 12/2022, 2022]
 #description:
 ---
 

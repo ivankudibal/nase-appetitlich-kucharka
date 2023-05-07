@@ -1,6 +1,6 @@
 ---
 #sidebar_position: 1
-tags: [leden, apetit, maso, klobása, těstoviny, fazole]
+tags: [leden, apetit, 2022, 01/2022, maso, klobása, těstoviny, fazole]
 persons: 4
 #description:
 ---

@@ -1,6 +1,6 @@
 ---
 #sidebar_position: 
-tags: [říjen, apetit, brambory, kari, cizrna]
+tags: [říjen, apetit, 10/2022, 2022, brambory, kari, cizrna]
 #description:
 ---
 

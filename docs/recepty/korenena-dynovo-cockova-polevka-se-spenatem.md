@@ -1,6 +1,6 @@
 ---
 #sidebar_position: 
-tags: [únor, apetit, dýně, čočka, polévka, špenát]
+tags: [únor, apetit, dýně, čočka, polévka, špenát, 2022, 02/2022]
 #description:
 ---
 

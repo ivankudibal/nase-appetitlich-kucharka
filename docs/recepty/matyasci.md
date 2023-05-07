@@ -1,6 +1,6 @@
 ---
 #sidebar_position: 
-tags: [říjen, apetit, brambory, kuře]
+tags: [říjen, apetit, brambory, kuře, 10/2022, 2022]
 #description:
 ---
 

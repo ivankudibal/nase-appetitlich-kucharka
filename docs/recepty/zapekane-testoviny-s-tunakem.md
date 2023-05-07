@@ -1,6 +1,6 @@
 ---
 #sidebar_position: 1
-tags: [těstoviny, červen, apetit, ryba, tuňák]
+tags: [těstoviny, červen, apetit, ryba, tuňák, 06/2020, 2020]
 persons: 4
 #description:
 ---

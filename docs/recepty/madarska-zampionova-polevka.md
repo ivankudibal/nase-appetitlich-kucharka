@@ -1,6 +1,6 @@
 ---
 #sidebar_position: 1
-tags: [únor, apetit, polévka, žampiony, víno]
+tags: [únor, apetit, 2020, 02/2020, polévka, žampiony, víno]
 persons: 4
 #description:
 ---
