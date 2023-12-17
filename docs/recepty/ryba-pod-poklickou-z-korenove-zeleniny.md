@@ -11,6 +11,8 @@ _Zdroj: Apetit._
 
 Pro 4 osoby.
 
+![Ryba pod pokličkou z kořenové zeleniny](./assets/ryba-pod-poklickou-z-korenove-zeleniny-1.jpeg)
+
 ## Ingredience
 
 - 2 střední mrkve
