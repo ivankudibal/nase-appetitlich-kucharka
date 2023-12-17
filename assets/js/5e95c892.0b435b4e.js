@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknase_appetitlich_kucharka=self.webpackChunknase_appetitlich_kucharka||[]).push([[9661],{4315:(e,a,s)=>{s.r(a),s.d(a,{default:()=>n});s(7294);var r=s(6905),c=s(168),t=s(6702),u=s(8790),h=s(263),k=s(5893);function n(e){return(0,k.jsx)(c.FG,{className:(0,r.Z)(t.k.wrapper.docsPages),children:(0,k.jsx)(h.Z,{children:(0,u.H)(e.route.routes)})})}}}]);

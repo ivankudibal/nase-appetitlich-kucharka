@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknase_appetitlich_kucharka=self.webpackChunknase_appetitlich_kucharka||[]).push([[641],{7374:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/nase-appetitlich-kucharka/blog/tags/docusaurus","allTagsPath":"/nase-appetitlich-kucharka/blog/tags","count":4,"unlisted":false}')}}]);
