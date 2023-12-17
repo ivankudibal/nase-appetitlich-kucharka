@@ -1,8 +1,8 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+//const lightCodeTheme = require('prism-react-renderer/themes/github');
+//const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -126,28 +126,34 @@ const config = {
         ],
         copyright: `Made by ivankudibal, 2022 - ${new Date().getFullYear()}  Built with Docusaurus.`,
       },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
     }),
 
-  //plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
   themes: [
     // ... Your other themes.
     [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
+      require.resolve("@cmfcmf/docusaurus-search-local"),
       {
         // ... Your options.
-        // `hashed` is recommended as long-term-cache of index file is possible.
-        hashed: true,
-        // For Docs using Chinese, The `language` is recommended to set to:
-        // ```
+        indexDocs: true,
+        indexPages: false,
         language: ["en"],
         // ```
       },
     ],
   ],
+  plugins: [
+    [
+      '@docusaurus/plugin-ideal-image',
+      {
+        //quality: 70,
+        //sizes: [640, 980, 1280, 1920, 3840],
+        //max: 1030, // max resized image's size.
+        //min: 640, // min resized image's size. if original is lower, use that size.
+        //steps: 4, // the max number of images generated between min and max (inclusive)
+        disableInDev: false,
+      },
+    ],
+  ]
 };
 
 module.exports = config;
