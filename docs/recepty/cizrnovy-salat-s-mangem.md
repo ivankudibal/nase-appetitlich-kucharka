@@ -1,6 +1,6 @@
 ---
 #sidebar_position: 
-tags: [únor, apetit, 02/2022, 2022, salát, cizrna, mango]
+tags: [únor, apetit, 02/2022, 2022, únor, salát, cizrna, mango]
 #description:
 ---
 
