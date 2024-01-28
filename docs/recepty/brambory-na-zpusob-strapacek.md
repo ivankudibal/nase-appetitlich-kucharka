@@ -1,6 +1,6 @@
 ---
 #sidebar_position: 1
-tags: [apetit, brambory, zelí, 3/2022, 2022, březen]
+tags: [apetit, brambory, zelí, 03/2022, 2022, březen]
 persons: 2
 #description:
 ---
