@@ -24,4 +24,4 @@ Přidáme **16 dkg moučkového cukru**, a to se už nemusí dát na vysokou ryc
 
 Plech s pečícím papírem, chytneme zespodu v rozích, a tvoříme.
 
-Do vyhřáté trouby na 85 - 90 stupňů, cca na půl druhou hodinu, nebo i déle. Pusinka bude zvonit, když se do ni drncne.
+Do vyhřáté trouby na 85 - 90 stupňů, horkovzduch, cca na půl druhou hodinu, nebo i déle. Pusinka bude zvonit, když se do ni drncne.
