@@ -6,7 +6,7 @@ tags: [prosinec, apetit, rajčata, polévka, perník, 12/2022, 2022]
 
 # Rajská polévka s perníkem
 
-_Zdroj: Apetit, prosinec 2022, strana 60_
+_Zdroj: Apetit, prosinec 2022, strana 6._
 
 ## Ingredience
 

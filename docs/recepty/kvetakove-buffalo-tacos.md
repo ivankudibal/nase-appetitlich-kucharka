@@ -9,8 +9,6 @@ tags: [srpen, apetit, květák, tacos, 2021, 08/2021]
 _Zdroj: Apetit, srpen 2021, strana 21_
 
 ![Květákové buffalo tacos](./assets/kvetakove-buffalo-tacos.jpeg)
-![Květákové buffalo tacos](./assets/kvetakove-buffalo-tacos-2.jpeg)
-![Květákové buffalo tacos](./assets/kvetakove-buffalo-tacos-3.jpeg)
 
 ## Ingredience
 
@@ -51,3 +49,6 @@ Zbylou buffalo omáčku ohřejte. Květák vyjměte z trouby,
 vsypte do misky, přelijte buffalo omáčkou a promíchejte.
 
 Doprostřed tacos dejte salát, na něj plátky avokáda, květák a zakápněte dresinkem. Ozdobte koriandrem a podávejte.
+
+![Květákové buffalo tacos](./assets/kvetakove-buffalo-tacos-2.jpeg)
+![Květákové buffalo tacos](./assets/kvetakove-buffalo-tacos-3.jpeg)

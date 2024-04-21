@@ -6,9 +6,11 @@ tags: [babiš, duben, 4/2024, 2024]
 
 # Pusinky
 
-_Zdroj_: Od babiš
+**Cenný recept na jednoduchou, avšak velmi efektní přípravu pusinek. V tomto receptu je již uvedena poloviční dávka, aby se do trouby najednou daly dát všechny, tedy ne více než tři, plechy.**
 
-Toto je již ta poloviční dávka.
+_Zdroj: Od babiš._
+
+![Pusinky](./assets/pusinky-2.jpeg)
 
 ## Postup
 
@@ -25,3 +27,6 @@ Přidáme **16 dkg moučkového cukru**, a to se už nemusí dát na vysokou ryc
 Plech s pečícím papírem, chytneme zespodu v rozích, a tvoříme.
 
 Do vyhřáté trouby na 85 - 90 stupňů, horkovzduch, cca na půl druhou hodinu, nebo i déle. Pusinka bude zvonit, když se do ni drncne.
+
+![Pusinky](./assets/pusinky-1.jpeg)
+![Pusinky](./assets/pusinky.jpeg)

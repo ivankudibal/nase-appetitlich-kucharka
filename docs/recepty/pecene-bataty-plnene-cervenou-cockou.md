@@ -13,6 +13,8 @@ Příprava a vaření 35 minut. Pečení 70 minut
 
 Pro 4 osoby.
 
+![Pečené batáty plněné červenou čočkou](./assets/pecene-bataty-plnene-cervenou-cockou.jpeg)
+
 ## Ingredience
 
 - 4 velké batáty
@@ -39,3 +41,5 @@ Předehřejte troubu na 200 stupňů. Do každého batátu několikrát píchně
 Mezitím rozehřejte zbylý olej na pánvi a osmahněte na něm cibuli dosklovita, přidejte česnek a rajčatový protlak. Restujte a míchejte, až protlak začne měnit barvu a česnek zavoní. Vmíchejte čočku a koření. Promíchejte a nechte společně chvilku rozvonět na pánvi. Přilijte vývar, osolte, opepřete. Přiveďte směs rychle k varu, pak teplotu stáhněte, přikryjte a zvolna vařte 20-25 minut, dokud čočka nezměkne a tekutina se nevstřebá. Pokud je to potřeba, dolijte vodu. Dochuťte podle potřeby solí, pepřem, vmíchejte ocet a nasekané vlašské ořechy.
 
 Upečené batáty vyjměte z alobalu a podélně uprostřed nařízněte. Rovnoměrně naplňte čočkovou směsí. Navrch dejte velkou lžíci jogurtu, zdobte nasekanou petrželkou a chilli vločkami.
+
+![Pečené batáty plněné červenou čočkou](./assets/pecene-bataty-plnene-cervenou-cockou-1.jpeg)
