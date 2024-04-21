@@ -13,7 +13,7 @@ Pro 2 osoby.
 
 Příprava 10 minut. Opékání 15 minut.
 
-obrazek todo terka poslat
+![Brambory na způsob střapaček](./assets/brambory-na-zpusob-strapacek-1.jpeg)
 
 ## Ingredience
 
@@ -28,3 +28,5 @@ obrazek todo terka poslat
 
 Na pánvi opékejte kostičky slaniny a podle toho, kolik pustí tuku, přidejte sádlo či olej. Vsypte cibuli a jakmile začne zlátnout, přidejte brambory a nechte je v pánvi, až se na nich tvoří zlatavá a křupavá kůrka. Na závěr vsypte kysané zelí a promíchejte, aby se zelí prohřálo a chutě propojily.
 Posypte pažitkou  a podávejte.
+
+![Brambory na způsob střapaček](./assets/brambory-na-zpusob-strapacek.jpeg)
