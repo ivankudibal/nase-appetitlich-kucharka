@@ -24,3 +24,7 @@ Pro 4 osoby
 ## Postup
 
 Do mixéru dejte jogurt, vodu či mléko, cukr a kardamom, mixujte 1 minutu. Přidejte led a zpracovávejte ještě minutu. Rozlijte do sklenic a podávejte posypané trochou pistácií nebo mandlí.
+
+## Úprava
+
+Po diskuzi s obsluhou ve vysočanské indické restauraci nám bylo prozrazeno, že do lasí patří především sladké mango, výměnou za cukr a koření. A jeden kus nakrájený do mixéru mixujeme o trochu déle, než jedna minuta. Co se týče jogurtu, zachutnala nám více lahodnější Holandie (3.7% tuku).
